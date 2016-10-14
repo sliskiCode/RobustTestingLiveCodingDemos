@@ -1,0 +1,29 @@
+1. Test methods naming.
+2. Test should not contains setup boilerplate to setups.
+3. Increase readability removing language keywords and access level modifiers.
+4. Try to name fields as simple as it is possible.
+5. Do not simulate given, when, then.
+
+--------------------------
+
+6. When you compare your custom objects implement equals/hashCode.
+
+--------------------------
+
+7. Parametrized tests are way much better in Spock!
+8. Method naming is awesome in Spock.
+
+--------------------------
+
+9. Method naming in kotlin.
+10. Parameter naming in kotlin.
+
+--------------------------
+
+11. Make your test fail.
+12. Use code coverage in code review process
+13. When you do not understand the method, try
+to write test for it.
+14. Do not test just a happy path!
+15. Try to avoid mocking. Mocks are your enemies!
+16. Do not make changes in code to write tests.
